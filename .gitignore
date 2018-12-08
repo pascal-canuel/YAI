@@ -1,3 +1,5 @@
+eigen/
+
 # Prerequisites
 *.d
 
@@ -30,3 +32,25 @@
 *.exe
 *.out
 *.app
+x64/Debug/Vision.ilk
+x64/Debug/Vision.pdb
+Vision/Vision.vcxproj
+Vision/Vision.vcxproj.filters
+Vision/Vision.vcxproj.user
+Vision/x64/Debug/vc141.idb
+Vision/x64/Debug/vc141.pdb
+Vision/x64/Debug/Vision.Build.CppClean.log
+Vision/x64/Debug/Vision.log
+Vision/x64/Debug/Vision.tlog/CL.command.1.tlog
+Vision/x64/Debug/Vision.tlog/CL.read.1.tlog
+Vision/x64/Debug/Vision.tlog/CL.write.1.tlog
+Vision/x64/Debug/Vision.tlog/link.command.1.tlog
+Vision/x64/Debug/Vision.tlog/link.read.1.tlog
+Vision/x64/Debug/Vision.tlog/link.write.1.tlog
+Vision/x64/Debug/Vision.tlog/Vision.lastbuildstate
+.vs/Vision/v15/.suo
+.vs/Vision/v15/ipch/AutoPCH/ae4380d411dd7416/DATALOADER.ipch
+.vs/Vision/v15/ipch/AutoPCH/9aae0d17828c4b92/ALLINCLUDES.ipch
+.vs/Vision/v15/ipch/AutoPCH/6ce1b1612543dcdb/VISION.ipch
+.vs/Vision/v15/Browse.VC.opendb
+.vs/Vision/v15/Browse.VC.db
